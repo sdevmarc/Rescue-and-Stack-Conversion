@@ -1,1 +1,7 @@
 # Rescue-and-Stack-Conversion
+
+- In this project discusses the Robot Map Environment and Stack Conversions. It examines the advantages, challenges, and implications of using Robot Map Environment and Stack Conversions. The processes of manipulating and determining the index in an array and placing the queue into a list by using linked list.  The processes of changing a stack data structure from one type to another are examined in this paper. It begins by discussing the many varieties of stacks, such as linked lists and arrays. It then describes how to convert from one type to another, for example, by utilizing the push, pop, and peek operations. 
+
+- The processes of manipulating and determining the index in an array and adding the index of an array into the list by using the Linked list in Robot Map Environment. The processes of Conversing Infix to Postfix, Postfix to Infix, Prefix to Postfix, and Postfix to Prefix expressions.
+
+- Robot Map Environment is a game where there is a rescuer and a casualty wherein the rescue robot is a robot designed to aid in the search and rescue operations. They may assist rescue efforts or even replace rescuers to perform dangerous missions by searching casualties in a hazardous environment. Therefore, Stack Conversions is a converter of infix to postfix, postfix to infix, prefix to postfix, and postfix to prefix with a various condition whether it is an operand or an operator.
